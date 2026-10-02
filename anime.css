@@ -1,0 +1,33 @@
+.data.type{white-space: nowrap;}
+.list-item:has([id^="tags-"]) .data.type:after {margin-left: -2px;}
+.list-item:has([id^="tags-"]) .add-edit-more:after {margin-left: 2px;}
+
+/* ---------- ANIME TAGS ---------- */
+
+.list-item:has(#tags-28999,#tags-31553) .data.type:after{content:"︱💝 I Love You Nao"}
+
+.list-item:has(#tags-44807,#tags-48561,#tags-50594,#tags-36699,#tags-52742,#tags-39576,#tags-59192,#tags-57555) .data.type:after{content:"︱🍿 At Theater"}
+
+.list-item:has(#tags-2156,#tags-7334,#tags-10330,#tags-5337,#tags-889,#tags-4901,#tags-1519,#tags-2142,#tags-4197,#tags-8358,#tags-3745,#tags-6217,#tags-8359,#tags-6460,#tags-8360,#tags-8361,#tags-8362,#tags-3744,#tags-8363,#tags-8364,#tags-8365,#tags-2172,#tags-8366,#tags-8367,#tags-8368,#tags-8369,#tags-10116,#tags-12499,#tags-17113,#tags-21395,#tags-552,#tags-1313,#tags-2961,#tags-1132,#tags-859,#tags-874,#tags-2670,#tags-2661,#tags-2676,#tags-2674,#tags-2656,#tags-6930,#tags-11053,#tags-19645,#tags-57360,#tags-603,#tags-2890,#tags-59597,#tags-11077,#tags-578,#tags-9032,#tags-16664,#tags-572,#tags-516,#tags-3545,#tags-3576,#tags-5725,#tags-15227,#tags-416,#tags-189,#tags-512,#tags-1138,#tags-4052,#tags-5962,#tags-10370,#tags-8410,#tags-36936,#tags-164,#tags-21557,#tags-1029,#tags-6904,#tags-527,#tags-1564,#tags-9107,#tags-14093,#tags-17873,#tags-20743,#tags-17115,#tags-1565,#tags-34514,#tags-2363,#tags-528,#tags-1117,#tags-1118,#tags-1119,#tags-1120,#tags-1121,#tags-1122,#tags-1526,#tags-2201,#tags-2847,#tags-4026,#tags-6178,#tags-7695,#tags-10740,#tags-9917,#tags-12671,#tags-16680,#tags-21569,#tags-25805,#tags-31231,#tags-1709,#tags-6591,#tags-12067,#tags-45,#tags-46,#tags-401,#tags-11441,#tags-44,#tags-4664,#tags-1254,#tags-1258,#tags-1257,#tags-1253,#tags-3515,#tags-1259,#tags-6171,#tags-9130,#tags-205,#tags-1827,#tags-199,#tags-339,#tags-1816,#tags-513,#tags-2236,#tags-759,#tags-508,#tags-6,#tags-4106,#tags-278,#tags-550,#tags-481,#tags-482,#tags-49730,#tags-40052,#tags-34541,#tags-49909,#tags-19,#tags-59145,#tags-60285,#tags-437,#tags-1943,#tags-34102,#tags-966,#tags-1735,#tags-2116,#tags-58939,#tags-44616,#tags-777,#tags-58125,#tags-121,#tags-33337,#tags-42847,#tags-28805,#tags-35120,#tags-28725,#tags-59898,#tags-268,#tags-145,#tags-329,#tags-323,#tags-239,#tags-35737,#tags-418,#tags-792,#tags-60564,#tags-60543,#tags-52701,#tags-56038,#tags-62001,#tags-20,#tags-57334,#tags-5231,#tags-13261,#tags-18097,#tags-10507 ,#tags-58929,#tags-63375,#tags-51553) .data.type:after{content:"︱🌷 Dub Castellano"}
+
+.list-item:has(#tags-371,#tags-372,#tags-779,#tags-780,#tags-781,#tags-1363,#tags-1364,#tags-1365,#tags-1366,#tags-1367,#tags-2471,#tags-2677,#tags-2664,#tags-2655,#tags-2654,#tags-2675,#tags-5096,#tags-2673,#tags-2668,#tags-6033,#tags-22777,#tags-36946,#tags-452,#tags-450,#tags-451,#tags-449,#tags-36098,#tags-585,#tags-352,#tags-877,#tags-353,#tags-1376,#tags-351,#tags-1007,#tags-440,#tags-441,#tags-523,#tags-479,#tags-392,#tags-2678,#tags-6988,#tags-10534,#tags-25383,#tags-2648,#tags-47,#tags-227,#tags-39569,#tags-170,#tags-225,#tags-45649,#tags-223,#tags-813,#tags-2659,#tags-1199,#tags-235,#tags-1,#tags-4936,#tags-2222,#tags-3312,#tags-1050,#tags-43,#tags-6811,#tags-350,#tags-210,#tags-232,#tags-249,#tags-479) .data.type:after{content:"︱🌻 Dub Català"}
+
+.list-item:has(#tags-16662,#tags-7045,#tags-431,#tags-7711) .data.type:after{content:"︱🍿 At Theater︱🌷 Dub Castellano"}
+
+.list-item:has(#tags-2392,#tags-2393,#tags-21469,#tags-15925,#tags-2450) .data.type:after{content:"︱🍿 At Theater︱🌻 Dub Català"}
+
+.list-item:has(#tags-21) .data.type:after{content:"︱🌻 Dub Català 001-516"}
+
+.list-item:has(#tags-6811,#tags-350,#tags-210,#tags-232,#tags-57555,#tags-38524,#tags-1535,#tags-31043,#tags-20159,#tags-23283,#tags-5114,#tags-48736,#tags-47917,#tags-7311,#tags-20,#tags-57334) .add-edit-more:after{content:"︱♻️ II Completed"}
+
+.list-item:has(#tags-35760,#tags-6547,#tags-10087,#tags-11741) .add-edit-more:after{content:"︱♻️ III Completed";}
+
+.list-item:has(#tags-5231,#tags-13261,#tags-18097,#tags-10507) .add-edit-more:after{content:"︱♻️ IV Completed"}
+
+.list-item:has(#tags-479,#tags-16498,#tags-25777) .add-edit-more:after{content:"︱♻️ V Completed"}
+
+.list-item:has(#tags-249) .add-edit-more:after{content:"︱♻️ VI Completed"}
+
+.list-item:has(#tags-28999,#tags-31553) .add-edit-more:after{content:"︱♻️ XII Completed"}
+
+.list-item:has(#tags-199,#tags-8359,#tags-8360,#tags-42984) .add-edit-more:after{content:"︱♻️ ∞ Completed"}
