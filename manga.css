@@ -1,0 +1,13 @@
+.data.type{white-space: nowrap;}
+.list-item:has([id^="tags-"]) .data.type:after {margin-left: -2px;}
+.list-item:has([id^="tags-"]) .add-edit-more:after {margin-left: 2px;}
+
+/* ---------- MANGA TAGS ---------- */
+
+.list-item:has(#tags-91913,#tags-90507) .data.type:after{content:"｜💝 I Love You Nao"}
+
+.list-item:has(#tags-100035,#tags-656,#tags-116880,#tags-147092,#tags-2,#tags-111512,#tags-642,#tags-7375,#tags-113010,#tags-101851,#tags-115110) .data.type:after{content:"｜🎨 Amazing Art"}
+
+.list-item:has(#tags-91913,#tags-90507) .add-edit-more:after{content:"｜🔖 Collection"}
+
+.list-item:has(#tags-70261,#tags-118568,#tags-3083,#tags-4632,#tags-326,#tags-7375,#tags-113010,#tags-101851,#tags-115110) .add-edit-more:after{content:"｜✨ Wishlist"}
